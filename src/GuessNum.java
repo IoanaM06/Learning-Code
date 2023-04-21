@@ -1,5 +1,3 @@
-package RandomPrograms;
-
 import java.util.Scanner;
 
 public class GuessNum {
